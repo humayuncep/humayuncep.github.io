@@ -1,4 +1,5 @@
 # Profile links:
+  - [xing](https://xing.to/humayunkabir)
   - [stackoverflow](https://stackoverflow.com/story/humayunkabir)
   - [github](https://github.com/humayunkabir)
   - [bitbucket](https://bitbucket.org/humayunkabir/)
